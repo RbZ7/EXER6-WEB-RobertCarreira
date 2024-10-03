@@ -27,7 +27,7 @@ document.getElementById('formulario').addEventListener('submit', function(event)
 
   for (let i = 0; i < numero; i++) {
     let li = document.createElement('li');
-    li.innerText = 'Ana Beatriz';
+    li.innerText = 'Robert Carreira';
     listaResultado.appendChild(li);
 }
 });
