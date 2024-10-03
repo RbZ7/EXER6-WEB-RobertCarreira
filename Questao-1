@@ -18,7 +18,7 @@
     <script>
       function exibirTexto() {
        let texto = document.getElementById("entradaTexto").value;
-       document.getElementById("mensagem").innerHTML = "Olá, " + texto + " ! Seja bem-vindo a página do Ana beatriz";
+       document.getElementById("mensagem").innerHTML = "Olá, " + texto + " ! Seja bem-vindo a página do Robert Carreira";
       }
     </script>
 </body>
